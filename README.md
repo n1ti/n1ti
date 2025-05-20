@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, I'm Niti
-#### CSE Junior at IIT Ropar
+#### SWE at Google
 
 I'm passionate about computer science and I love creative problem-solving. I'm also a fast learner and highly self motivated. I am familiar with C, C++, Java, Python, Perl, JavaScript, ReactJS, NodeJS , Firebase, SQL and NoSQL databases. 
-
-🌱 I’m currently learning ML and App Development
-  
-📫 How to reach me: niti200005@gmail.com
